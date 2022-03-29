@@ -1,0 +1,30 @@
+section {
+    background-color: aqua;
+}
+h1 {
+    background-color: antiquewhite;
+}
+header + p {
+    background-color: blueviolet;
+}
+h2 {
+    background-color: rgb(16, 170, 50);
+}
+h2 + p {
+    background-color: rgb(216, 22, 141);
+}
+#item1 {
+    color: rgb(24, 175, 175);
+}
+#item2 {
+    color: rgb(133, 93, 126);
+}
+#item3 {
+    color: rgb(201, 118, 51);  
+}
+#item4 {
+    color: rgb(44, 185, 138);
+}
+#item5 {
+    color: rgb(59, 36, 122);
+}
